@@ -1,1 +1,2 @@
-2.4.7
+print("Succesfuly Injected To Roblox")
+warn("Thanks you guy for using my executor!")
